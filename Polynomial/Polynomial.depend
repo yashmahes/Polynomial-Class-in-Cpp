@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1489985240 source:e:\codeblocks\polynomial\main.cpp
+	"polynomial.h"
+	"polynomial.h"
+	"polynomial.h"
+	"polynomial.h"
+	<iostream>
+
+1489986860 e:\codeblocks\polynomial\polynomial.h
+	<iostream>
+	<vector>
+
+1489986613 source:e:\codeblocks\polynomial\polynomial.cpp
+	"Polynomial.h"
+	<iostream>
+	<vector>
+	<cassert>
+	<cmath>
+
+1489985242 source:g:\codeblocks\polynomial\main.cpp
+	"polynomial.h"
+	"polynomial.h"
+	"polynomial.h"
+	"polynomial.h"
+	<iostream>
+
+1541569100 g:\codeblocks\polynomial\polynomial.h
+	<iostream>
+	<vector>
+
+1541569042 source:g:\codeblocks\polynomial\polynomial.cpp
+	"Polynomial.h"
+	<iostream>
+	<vector>
+	<cassert>
+	<cmath>
+
